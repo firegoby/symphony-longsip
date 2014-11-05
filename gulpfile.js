@@ -1,5 +1,5 @@
 /*
- * Symphony-Pimms Gulpfile - see readme.md for details
+ * Symphony-Longsip Gulpfile - see readme.md for details
  */
 
 var autoprefixer = require('gulp-autoprefixer')
